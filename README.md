@@ -1,7 +1,7 @@
 ## Vinícius ⚡
 
 
-<div>
+<div style="display: incline_block">
   <a href="https://github.com/vinicius-sponchiado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-sponchiado&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-sponchiado&layout=compact&langs_count=7&theme=onedark"/>
