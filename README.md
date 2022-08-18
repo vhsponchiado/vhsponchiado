@@ -1,4 +1,4 @@
-## Vinícius ⚡
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=9500ff&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Hello+World,+I´m+Vinícius)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/vinicius-sponchiado">
