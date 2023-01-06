@@ -1,8 +1,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=9500ff&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Hello+World,+I´m+Vinícius)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniisponchiado&show_icons=true&theme=radical)](https://github.com/viniisponchiado/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniisponchiado&layout=compact&langs_count=10&theme=radical)](https://github.com/viniisponchiado/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api? -->
+<!-- username=viniisponchiado&show_icons=true&theme=radicaln(https://github.com/viniisponchiado/github-readme-stats) -->
+ 
 
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
