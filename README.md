@@ -1,9 +1,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=9500ff&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Hello+World,+I´m+Vinícius)](https://git.io/typing-svg)
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniisponchiado&show_icons=true&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniisponchiado&layout=compact&langs_count=7&theme=midnight-purple"/></div>
- 
+
 
 <div style="display: inline_block"><br>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
