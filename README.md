@@ -3,10 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&pause=1000&color=9500ff&size=30&center=true&vCenter=true&width=1000&heigth=100&lines=Hello+World,+I´m+Vinícius)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=viniisponchiado&bg_color=0d1117&color=ffffff&line=9500ff&point=d121cb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniisponchiado&show_icons=true&count_private=true&hide_border=true&title_color=9500ff&icon_color=d121cb&text_color=ffffff&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniisponchiado&layout=compact&hide_border=true&title_color=9500ff&text_color=ffffff&bg_color=0d1117" /
