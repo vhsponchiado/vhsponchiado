@@ -4,9 +4,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vhsponchiado&show_icons=true&count_private=true&hide_border=true&title_color=9500ff&icon_color=d121cb&text_color=ffffff&bg_color=14081f" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhsponchiado&layout=compact&hide_border=true&title_color=9500ff&text_color=ffffff&bg_color=14081f" /
- </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhsponchiado&show_icons=true&hide_border=true&border_radius=10.0&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhsponchiado&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=github_dark"/>
+</div>
  <br> <br>
  
  [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,vite,typescript,javascript,html,css,bootstrap,cs,arduino,mysql,firebase,ps,figma,git&theme=dark)](https://skillicons.dev)   
