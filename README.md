@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhsponchiado&layout=compact&langs_count=7&hide_border=true&border_radius=10.0&theme=dark"/>
   <br><br>
   
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nodejs,typescript,javascript,html,css,bootstrap,cs,arduino,mysql,firebase,ps,figma,git&theme=dark)](https://skillicons.dev)   
+  [![My Skills](https://skillicons.dev/icons?i=react,tailwindcss,nodejs,typescript,javascript,cs,arduino,mysql,firebase,ps,figma,git&theme=dark)](https://skillicons.dev)   
 
 ## Redes Sociais
  <div>
