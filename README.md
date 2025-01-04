@@ -56,9 +56,9 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <!-- To include private commits, add the count_private=true parameter -->
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vhsponchiado&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vhsponchiado&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vhsponchiado&theme=monokai&include_all_commits=true&count_private=true&" alt="GitHub Streak"/>
+  <img height="180em"  width="350px" src="https://github-readme-streak-stats.herokuapp.com/?user=vhsponchiado&theme=monokai&include_all_commits=true&count_private=true&" alt="GitHub Streak"/>
 
   <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider"/>
   
