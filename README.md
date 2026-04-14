@@ -6,7 +6,7 @@
 
 ### About Me 🧑‍💻
 
-I'm a 20-year-old developer passionate about leveraging technology to create innovative solutions. Currently, I'm contributing to an ERP project that integrates with multiple marketplaces at a business holding company.
+I'm a 21-year-old developer passionate about leveraging technology to create innovative solutions. Currently, I'm contributing to an ERP project that integrates with multiple marketplaces at a business holding company.
 
 - 💻 Full Stack Developer with a growing tech stack
 - 🌱 Constantly learning and adapting to new technologies
