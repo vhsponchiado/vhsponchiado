@@ -6,12 +6,19 @@
 
 ### About Me 🧑‍💻
 
-I'm a 21-year-old developer passionate about leveraging technology to create innovative solutions. Currently, I'm contributing to an ERP project that integrates with multiple marketplaces at a business holding company.
+I'm a **Tech Lead and Mid/Senior Software Engineer** focused on building scalable, reliable, and business-driven solutions.
 
-- 💻 Full Stack Developer with a growing tech stack
-- 🌱 Constantly learning and adapting to new technologies
-- 🏋 Fitness enthusiast and movie buff
-- 🎯 Dedicated to personal projects for skill enhancement
+Currently, I lead and contribute to projects involving **Data Analytics** and **Operations Management**, working across technical architecture, development, cloud infrastructure, and engineering decisions.
+
+- 🚀 Tech Lead focused on technical leadership and software architecture
+- ☁️ Experience with **AWS**, cloud infrastructure, and **Infrastructure as Code (IaC)**
+- 💻 Backend development primarily with **TypeScript and Golang**
+- 📊 Working on solutions involving **Data Analytics and Operations Management**
+- 🏗️ Focused on scalability, maintainability, automation, and software quality
+- 🌱 Constantly improving my knowledge in software engineering, cloud, and distributed systems
+- 🎯 Building personal projects to explore new technologies and strengthen my engineering skills
+- 🏋️ Fitness enthusiast and movie buff
+
 ---
 
 ### Connect With Me 🌐
